@@ -1,7 +1,9 @@
-nova alteração pelo vscode
+﻿nova alteração pelo vscode
 
 novo arquivo para adição no repositorio
 
+
+Alteração pela VM sem vscode
 
 
 
