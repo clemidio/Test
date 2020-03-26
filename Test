@@ -1,0 +1,13 @@
+
+Arquivo de test usando nano com git 
+comandos:
+
+CTRL+X => Sai do editor.
+CTRL+O => Salva o arquivo.
+CTRL+R => Ler um arquivo em seu arquivo de trabalho atual.
+CTRL+C => Mostra a posição atual do cursor.
+CTRL+K => 'recorta' o texto.
+CTRL+U => 'cola' o texto.
+CTRL+S => Salva o arquivo e continua trabalhando.
+CTRL+T => verifica a ortografia do seu texto.
+
