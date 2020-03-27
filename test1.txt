@@ -4,6 +4,8 @@ novo arquivo para adição no repositorio
 
 
 Alteração pela VM sem vscode
+test do git checkout
+
 
 
 
